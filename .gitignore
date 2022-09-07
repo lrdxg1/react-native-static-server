@@ -55,3 +55,5 @@ StaticServerExample/my-release-key.keystore
 .project
 .settings/
 android/.project
+
+.history
